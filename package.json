@@ -1,0 +1,16 @@
+{
+  "name": "archillect-frame",
+  "version": "0.0.1",
+  "description": "Displays images from the Archillect twitter account",
+  "license": "MIT",
+  "dependencies": {
+    "micro": "^8.0.1"
+  },
+  "devDependencies": {
+    "micro-dev": "^1.1.2"
+  },
+  "scripts": {
+    "start": "micro",
+    "dev": "micro-dev"
+  }
+}
